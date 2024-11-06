@@ -1,0 +1,7 @@
+1. When their is only one element left in the list.
+
+2. it will give a idea of where it needs to look, split it in the middle, then see what direction to go and continue
+
+3. we use splice to split it and then go higher or lower depending on what we are searching for.
+
+4. 4 times vs having to loop through however many times to get to that said number. 
